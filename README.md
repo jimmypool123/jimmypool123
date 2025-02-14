@@ -10,4 +10,4 @@
 jimmypool123/jimmypool123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Aprendiendo d 6 - 8 horas diarias
+Aprendiendo de 6:h - 8:h diarias al dia
